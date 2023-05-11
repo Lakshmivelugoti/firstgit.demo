@@ -1,1 +1,2 @@
 #Hello
+Do not pay attention to ignored files specified via the .gitignore mechanism. Only useful when searching files in the current directory with --no-index
